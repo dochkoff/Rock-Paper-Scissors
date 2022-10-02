@@ -23,6 +23,7 @@ Global
 		SolutionGuid = {88B207F2-F0A1-41E1-9771-E1A060D77CA9}
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		version = 1.0
+		version = 2.0
+		description = Add colour, play again and final result
 	EndGlobalSection
 EndGlobal
