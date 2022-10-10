@@ -33,7 +33,7 @@ The winner will be announced.
 [Source code of the project](RockPaperScissors.cs)
 
 ## Screenshots
-<img width="167" alt="SS1" src="https://user-images.githubusercontent.com/74410756/194842819-04744ccf-780d-477b-bf98-4aa55b8f0673.png"> <img width="167" alt="SS2" src="https://user-images.githubusercontent.com/74410756/194842823-dd7e0bfe-739a-4901-ae64-8a89979f3994.png"> <img width="167" alt="SS3" src="https://user-images.githubusercontent.com/74410756/194842827-4d9d538e-c6e2-41a9-902f-29b9a86ec991.png">
+<img width="167" alt="SS1" src="https://user-images.githubusercontent.com/74410756/194842819-04744ccf-780d-477b-bf98-4aa55b8f0673.png"> <img width="167" alt="SS2" src="https://user-images.githubusercontent.com/74410756/194842823-dd7e0bfe-739a-4901-ae64-8a89979f3994.png"> <img width="193" alt="SS3" src="https://user-images.githubusercontent.com/74410756/194842827-4d9d538e-c6e2-41a9-902f-29b9a86ec991.png">
 
 ## One-Click Live Demo
 
